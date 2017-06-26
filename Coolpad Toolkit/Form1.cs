@@ -16,5 +16,20 @@ namespace Coolpad_Toolkit
         {
             InitializeComponent();
         }
+
+        private void download_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void about_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
