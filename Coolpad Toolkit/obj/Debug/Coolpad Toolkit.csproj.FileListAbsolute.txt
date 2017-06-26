@@ -7,3 +7,9 @@ c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Co
 c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.csproj.GenerateResource.Cache
 c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.exe
 c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.pdb
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad_Toolkit.AboutBox1.resources
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad_Toolkit.splash.resources
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\bin\Debug\Coolpad Toolkit.exe.manifest
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\bin\Debug\Coolpad Toolkit.application
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.exe.manifest
+C:\Users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.application

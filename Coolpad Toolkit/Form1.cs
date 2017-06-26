@@ -24,12 +24,47 @@ namespace Coolpad_Toolkit
 
         private void about_Click(object sender, EventArgs e)
         {
-            
+            AboutBox1 ab = new AboutBox1();
+            ab.ShowDialog();
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void roms_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void options_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (options.SelectedItem == "ROMS")
+            {
+
+                roms.Visible = true;
+                kernels.Visible = false;
+                empty.Visible = false;
+            }
+            if (options.SelectedItem == "KERNELS")
+            {
+
+                roms.Visible = false;
+                kernels.Visible = true;
+                empty.Visible = false;
+            }
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Main_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            //exit application when form is closed
+            Application.Exit();
         }
     }
 }
