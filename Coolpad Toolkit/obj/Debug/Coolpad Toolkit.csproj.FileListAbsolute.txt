@@ -1,0 +1,9 @@
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\bin\Debug\Coolpad Toolkit.exe.config
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\bin\Debug\Coolpad Toolkit.exe
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\bin\Debug\Coolpad Toolkit.pdb
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.csprojResolveAssemblyReference.cache
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad_Toolkit.Main.resources
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad_Toolkit.Properties.Resources.resources
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.csproj.GenerateResource.Cache
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.exe
+c:\users\basev\onedrive\documents\visual studio 2015\Projects\Coolpad Toolkit\Coolpad Toolkit\obj\Debug\Coolpad Toolkit.pdb
