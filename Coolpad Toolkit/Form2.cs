@@ -22,9 +22,12 @@ namespace Coolpad_Toolkit
 
         }
 
+        //Use timer class
+        Timer tmr;
+
         private void splash_Shown(object sender, EventArgs e)
         {
-            Timer tmr = new Timer();
+            tmr = new Timer();
             //set time interval 3 sec
             tmr.Interval = 3000;
             //starts the timer
@@ -33,7 +36,6 @@ namespace Coolpad_Toolkit
         }
         void tmr_Tick(object sender, EventArgs e)
         {
-            Timer tmr = new Timer();
             //after 3 sec stop the timer
             tmr.Stop();
             //display mainform

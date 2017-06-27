@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Coolpad Toolkit.exe" size="121344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Coolpad Toolkit.exe" size="200192">
       <assemblyIdentity name="Coolpad Toolkit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2vwqLz2jWuGfToi44SLWNCuqVgnDhNYpG2QTXpAq2YI=</dsig:DigestValue>
+        <dsig:DigestValue>x3nBRgxS5nxH05NWlSsXmEntjwgrIHK0UAYckHnuhS8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
