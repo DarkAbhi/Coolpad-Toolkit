@@ -17,8 +17,6 @@ namespace Coolpad_Toolkit
             this.Text = String.Format("About Coolpad Universal HUB");
             this.labelProductName.Text = "Coolpad HUB";
             this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
-            this.labelCopyright.Text = AssemblyCopyright;
-            this.textBoxDescription.Text = AssemblyDescription;
         }
 
         #region Assembly Attribute Accessors
@@ -122,6 +120,11 @@ namespace Coolpad_Toolkit
         }
 
         private void okButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxDescription_TextChanged(object sender, EventArgs e)
         {
 
         }
